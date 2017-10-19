@@ -1,0 +1,2 @@
+2017-10-12 13:50:17 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:18862: Connection reset
+2017-10-12 13:50:17 INFO  RetryExec:113 - Retrying request to {}->http://localhost:18862
